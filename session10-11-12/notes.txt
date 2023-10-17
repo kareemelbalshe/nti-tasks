@@ -1,0 +1,18 @@
+users 
+    => fname, lname, age, password, email, status, images, addresses (title, content), created at, updated at
+    ==> register => done
+    all users => done
+    single=> done
+    del all=> done
+    del one=> done
+    edit user=> done
+    login 
+    activate
+    logout
+    profile
+    change password
+    edit image profile
+    add/ edit/ del addresses
+
+tasks 
+type(txt, withFile), title, content, file, userId
